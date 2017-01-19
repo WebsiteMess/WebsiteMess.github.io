@@ -1,5 +1,5 @@
 .press {
-  text-align:center;
+  text-align: center;
 }
 
 .press img {
@@ -11,30 +11,30 @@
 }
 
 header {
-  position:fixed;
-  left:0;
-  width:100%;
-  height:80px;
-  padding-top:0px;
-  transition:all 0.3s linear;
-  -moz-transition:all 0.3s linear;
+  position: fixed;
+  left: 0;
+  width: 100%;
+  height: 80px;
+  padding-top: 0px;
+          transition:all 0.3s linear;
+     -moz-transition:all 0.3s linear;
   -webkit-transition:all 0.3s linear;
 }
 
 .default {
-  top:0;
+  top: 0;
 }
 
 .fixed {
-  top:-80px;
+  top: -80px;
 }
 
 .btn-github {
-  border-radius:0;
-  position:absolute;
-  top:0px;
-  right:0px;
-  float:right;
+  border-radius: 0;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  float: right;
 }
 
 .transparent-on-hover:hover,.transparent-on-hover:focus,.transparent-on-hover:active {
@@ -46,9 +46,9 @@ header {
 }
 
 body {
-  padding-top:10px;
+  padding-top: 10px;
 }
 
 .img-header {
-  height:75px;
+  height: 75px;
 }
